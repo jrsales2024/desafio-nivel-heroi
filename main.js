@@ -1,32 +1,8 @@
-
 let heroi = "Superman";
 let xp = 1000;
 
-
 if (xp < 1000) {
     heroi = "Ferro";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 } else if (xp >= 1001 && xp <= 2000) { 
     heroi = "Bronze";
 } else if (xp >= 2001 && xp <= 5000) {
